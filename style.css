@@ -102,17 +102,18 @@ nav ul li a {
 }
 
 .accueil h1 {
-    font-size: 35px;
-    color: #ada2ee;
+    color:snow;
     font-weight: 600;
     margin-bottom: 5px;
     margin-left: 3%; 
 }
 
 .accueil span {
+    background: linear-gradient(110deg, #ada2ee, #A4BFF1); 
+    -webkit-background-clip: text; 
+    color: transparent;
     font-size: 35px;
     font-weight: 800;
-    color: rgb(255, 255, 255);
     margin-left: 3%; 
 }
 
@@ -136,8 +137,10 @@ nav ul li a {
 }
 
 .accueil h2 {
+    background: linear-gradient(110deg, #ada2ee, #A4BFF1); 
+    -webkit-background-clip: text; 
+    color: transparent;
     font-size: 20px;
-    color: #ada2ee;
     font-weight: 600;
     position: relative; 
     top: -100px; 
@@ -155,7 +158,9 @@ nav ul li a {
 
 .accueil h4 {
     font-size: 44px;
-    color: #ada2ee;
+    background: linear-gradient(110deg, #ada2ee, #A4BFF1); 
+    -webkit-background-clip: text; 
+    color: transparent;
     font-weight: 600;
     position: relative; 
     top: 40px; 
@@ -163,6 +168,9 @@ nav ul li a {
 }
 
 .accueil h5 {
+    background: linear-gradient(110deg, #ada2ee, #A4BFF1); 
+    -webkit-background-clip: text; 
+    color: transparent;
     font-size: 44px;
     color: #ada2ee;
     font-weight: 600;
