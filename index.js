@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     var typed = new Typed('.animation', {
-        strings: ['Noah Ripert','Développeur', 'Étudiant'],
+        strings: ['Noah Ripert', 'Étudiant'],
         typeSpeed: 75,
         backSpeed: 75,
         loop: true
